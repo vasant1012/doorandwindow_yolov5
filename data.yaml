@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['bed', 'dining_table', 'door', 'entry_door', 'kitchen_counter', 'north', 'sofa', 'storage', 'tv', 'wc', 'window']
+
+roboflow:
+  workspace: bizmetric
+  project: floorplan-features
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bizmetric/floorplan-features/dataset/2
