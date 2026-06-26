@@ -59,4 +59,5 @@ Thumbs.db
 *.swo
 
 # training files
+split_dataset/*
 train/*

@@ -1,13 +1,16 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
+names:
+- bed
+- dining_table
+- door
+- entry_door
+- kitchen_counter
+- north
+- sofa
+- storage
+- tv
+- wc
+- window
 nc: 11
-names: ['bed', 'dining_table', 'door', 'entry_door', 'kitchen_counter', 'north', 'sofa', 'storage', 'tv', 'wc', 'window']
-
-roboflow:
-  workspace: bizmetric
-  project: floorplan-features
-  version: 2
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/bizmetric/floorplan-features/dataset/2
+test: /content/drive/MyDrive/Colab Notebooks/dnw/split_dataset/test/images
+train: /content/drive/MyDrive/Colab Notebooks/dnw/split_dataset/train/images
+val: /content/drive/MyDrive/Colab Notebooks/dnw/split_dataset/valid/images
