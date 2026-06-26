@@ -43,7 +43,7 @@ ENV/
 runs/
 weights/
 labels.cache
-*.pt
+#*.pt
 *.pth
 
 # Dataset caches and temp files
