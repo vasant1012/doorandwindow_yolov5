@@ -11,6 +11,6 @@ names:
 - wc
 - window
 nc: 11
-test: /content/drive/MyDrive/Colab Notebooks/dnw/split_dataset/test/images
-train: /content/drive/MyDrive/Colab Notebooks/dnw/split_dataset/train/images
-val: /content/drive/MyDrive/Colab Notebooks/dnw/split_dataset/valid/images
+test: /home/vasant/projects/doorandwindow_yolov5/split_dataset/test/images
+train: /home/vasant/projects/doorandwindow_yolov5/split_dataset/train/images
+val: /home/vasant/projects/doorandwindow_yolov5/split_dataset/valid/images
