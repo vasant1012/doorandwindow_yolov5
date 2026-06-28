@@ -57,3 +57,6 @@ Annotated results will be saved under the chosen output folder, for example:
 ```bash
 runs/infer/exp
 ```
+## Prediction
+
+<img width="963" height="651" alt="prediction_5" src="https://github.com/user-attachments/assets/c2fb7286-ab20-4f1e-aa2b-ad73b75b141c" />
